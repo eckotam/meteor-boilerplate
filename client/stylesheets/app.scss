@@ -1,0 +1,18 @@
+// Custom variables and palette
+@import "variables";
+@import "palette";
+
+// Foundation 6
+@import "{zurb:foundation-sites}/scss/foundation";
+@include foundation-everything;
+
+// Helpers
+@import "helpers/helper";
+@import "helpers/util";
+
+// Partials
+@import "partials/base";
+@import "partials/footer";
+@import "partials/header";
+@import "partials/layout";
+

@@ -19,3 +19,5 @@ ecmascript              # Enable ECMAScript2015+ syntax in app code
 autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
 zurb:foundation-sites	# Foundation 6 Framework
+kadira:flow-router		# FlowRouter for client-side routing
+kadira:blaze-layout		# Blaze layout for Flow Router
